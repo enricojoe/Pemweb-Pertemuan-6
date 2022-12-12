@@ -1,2 +1,6 @@
-# Pemweb-Pertemuan-6
-Tugas praktikum pertemuan 6
+Tugas pertemuan 6
+
+Nama : Enrico Johanes.S
+Kelas : RA
+Cluster : C
+NIM : 119140021
